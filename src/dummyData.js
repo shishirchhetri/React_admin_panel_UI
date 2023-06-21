@@ -60,3 +60,16 @@ export const userData = [
      
     },
   ];
+
+  export const userRow = [
+    { id: 1, username:'John Snow', avatar:'https://images.unsplash.com/photo-1615672969032-45c313ae0a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmlraW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60', email:'johnsnow@gmail.com', status:'active', transaction:'$120.00'},
+    { id: 2, username:'John Snow', avatar:'https://images.unsplash.com/photo-1615672969032-45c313ae0a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmlraW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60', email:'johnsnow@gmail.com', status:'active', transaction:'$120.00'},
+    { id: 3, username:'John Snow', avatar:'https://images.unsplash.com/photo-1615672969032-45c313ae0a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmlraW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60', email:'johnsnow@gmail.com', status:'active', transaction:'$120.00'},
+    { id: 4, username:'John Snow', avatar:'https://images.unsplash.com/photo-1615672969032-45c313ae0a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmlraW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60', email:'johnsnow@gmail.com', status:'active', transaction:'$120.00'},
+    { id: 5, username:'John Snow', avatar:'https://images.unsplash.com/photo-1615672969032-45c313ae0a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmlraW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60', email:'johnsnow@gmail.com', status:'active', transaction:'$120.00'},
+    { id: 6, username:'John Snow', avatar:'https://images.unsplash.com/photo-1615672969032-45c313ae0a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmlraW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60', email:'johnsnow@gmail.com', status:'active', transaction:'$120.00'},
+    { id: 7, username:'John Snow', avatar:'https://images.unsplash.com/photo-1615672969032-45c313ae0a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmlraW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60', email:'johnsnow@gmail.com', status:'active', transaction:'$120.00'},
+    { id: 8, username:'John Snow', avatar:'https://images.unsplash.com/photo-1615672969032-45c313ae0a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmlraW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60', email:'johnsnow@gmail.com', status:'active', transaction:'$120.00'},
+    { id: 9, username:'John Snow', avatar:'https://images.unsplash.com/photo-1615672969032-45c313ae0a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmlraW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60', email:'johnsnow@gmail.com', status:'active', transaction:'$120.00'},
+    { id: 10, username:'John Snow', avatar:'https://images.unsplash.com/photo-1615672969032-45c313ae0a2c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8dmlraW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60', email:'johnsnow@gmail.com', status:'active', transaction:'$120.00'},
+  ];
