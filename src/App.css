@@ -1,12 +1,16 @@
-.app {
-  margin: 0 auto;
+*{
+  margin: 0 ;
+  padding: 0;
   font-family: 'Source Sans 3', sans-serif;
   box-sizing: border-box;
+  /* border: 1px solid black; */
 }
+
 .container{
   display: flex;
   margin-top: 10px;
 }
+
 .other{
   flex:4;
 }
