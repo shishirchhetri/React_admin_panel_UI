@@ -2,7 +2,10 @@ import './user.css'
 const User = () => {
   return (
     <div className="user">
-        User
+        <div className="user-titleContainer">
+          <h1 className="user-title">Edit User</h1>
+          <button className='user-addButton'>Create</button>
+        </div>
     </div>
   )
 }
