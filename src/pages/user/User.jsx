@@ -1,5 +1,5 @@
 import "./user.css";
-import profile from "../../assets/profile.jpg";
+import profile from "../../assets/profile5.avif";
 import {
   CalendarToday,
   LocationSearching,
